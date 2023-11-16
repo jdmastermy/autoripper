@@ -1,5 +1,12 @@
 # autoripper
-Based on Regripper and Autorip script. Written in batch and python
+Based on Regripper and Autorip script. Written in batch and python. Alpha version
+### Regripper
+https://github.com/keydet89/RegRipper3.0
+
+### Autorip
+http://journeyintoir.blogspot.com/2013/05/unleashing-autorip.html
+
+## Description
 This script will look for the specified registry files within a given directory and parse them using RegRipper, saving the output to a designated reports directory.
 
 ## Batch: autoripper.bat
