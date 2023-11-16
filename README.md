@@ -21,6 +21,6 @@ Before running the script, ensure that you have the necessary administrative pri
 ## Python: autoripper.py
 Save this script to a .py file on your local machine. You can run it from the command line by navigating to the directory containing the script and running the following command:
 
-`python autorip.py "C:/path/to/hives" "C:/path/to/reports" "C:/path/to/rip.exe"`
+`python autoripper.py "C:/path/to/hives" "C:/path/to/reports" "C:/path/to/rip.exe"`
 
 Make sure to replace the placeholder paths with the actual paths relevant to your setup. The script expects three command-line arguments: the path to the hives (either a directory or a single file), the path to save reports, and the path to the RegRipper executable.
