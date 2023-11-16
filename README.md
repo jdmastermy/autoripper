@@ -1,5 +1,5 @@
 # autoripper
-Based on Regripper and Autorip script
+Based on Regripper and Autorip script. Written in batch and python
 This script will look for the specified registry files within a given directory and parse them using RegRipper, saving the output to a designated reports directory.
 
 To use this script:
