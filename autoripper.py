@@ -42,6 +42,6 @@ if __name__ == '__main__':
     import sys
 
     if len(sys.argv) != 4:
-        print("Usage: python autorip.py <hive_input_path> <report_dir_path> <regripper_exe_path>")
+        print("Usage: python autoripper.py <hive_input_path> <report_dir_path> <regripper_exe_path>")
     else:
         main(sys.argv[1], sys.argv[2], sys.argv[3])
